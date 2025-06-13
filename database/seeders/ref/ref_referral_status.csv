@@ -1,0 +1,6 @@
+"referral_status_code","referral_status_desc"
+"1","NEW - IN PROGRESS"
+"2","PENDING - FURTHER ACTION REQUIRED"
+"3","SERVICE PROVIDED"
+"4","SERVICE NOT PROVIDED"
+"5","EXPIRED"

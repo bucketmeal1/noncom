@@ -1,0 +1,5 @@
+"imaging_code","imaging_desc","imaging_link"
+"EC","ECG","tbl_imaging_ecg"
+"MR","MRI","tbl_imaging_mri"
+"UT","Ultrasound","tbl_imaging_ultrasound"
+"XR","X-ray","tbl_imaging_xray"

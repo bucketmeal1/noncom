@@ -1,0 +1,5 @@
+"patient_status_code","patient_status_desc"
+"DI","Died"
+"IM","Improved"
+"RE","Recovered"
+"UN","Unimproved"

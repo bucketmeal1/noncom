@@ -1,0 +1,6 @@
+"injury_intent_code","injury_intent_desc"
+"01","Unintentional/Accidental"
+"02","Intentional (Violence)"
+"03","Intentional (Self - Inflicted)"
+"04","VAWC"
+"99","Undetermined"

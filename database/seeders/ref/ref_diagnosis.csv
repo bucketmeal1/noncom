@@ -1,0 +1,8 @@
+"diagnosis_code","diagnosis_desc","active"
+"ADMDX","Admitting diagnosis","Y"
+"CLIDI","Clinical diagnosis","N"
+"FINDX","Final Diagnosis","Y"
+"NA","Not Applicable","Y"
+"OTHER","Other diagnosis","N"
+"WODIA","Working diagnosis","Y"
+"WORDX","Interim diagnosis","N"

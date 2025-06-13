@@ -1,0 +1,8 @@
+"zscore_code","zscore_desc"
+"+2SD","+2SD- NORMAL"
+"+3SD","+3SD - OVERWEIGHT"
+"-2SD","-2SD - NORMAL"
+"-3SD","-3SD - MODERATELY WASTED"
+"<-3SD","<-3SD - SEVERELY WASTED"
+"> +2SD","> +2SD - OVERWEIGHT"
+"> +3SD","> +3SD - OBESE"

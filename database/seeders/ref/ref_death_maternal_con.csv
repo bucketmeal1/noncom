@@ -1,0 +1,6 @@
+"death_maternal_con_code","death_maternal_con_desc"
+"1","Pregnant, not in labour"
+"2","Pregnant, in labour"
+"3","less than 42 days after delivery"
+"4","42 days to 1 year after delivery"
+"5","None of the choices"

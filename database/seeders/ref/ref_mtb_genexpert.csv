@@ -1,0 +1,4 @@
+"mtbgx_result_code","mtbgx_result_desc","active"
+"1","MTB NOT DETECTED","Y"
+"2","MTB DETECTED, RR NOT DETECTED","Y"
+"3","MTB DETECTED, RR DETECTED","Y"

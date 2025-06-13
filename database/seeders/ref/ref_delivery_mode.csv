@@ -1,0 +1,4 @@
+"delivery_mode_id","delivery_mode_desc","prenatal_delivered_type_code"
+"01","Vacuum Delivery","o"
+"02","Forceps Delivery","o"
+"03","Caeserian Section","o"

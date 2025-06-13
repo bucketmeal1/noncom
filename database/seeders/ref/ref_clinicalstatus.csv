@@ -1,0 +1,8 @@
+"Code","Description"
+"00000000001","Currently Admitted"
+"00000000002","In a non-health facility Isolation"
+"00000000003","Died"
+"00000000004","Discharged"
+"00000000005","Unknown"
+"00000000006","Home-based Isolation"
+"00000000007","Others"

@@ -1,0 +1,6 @@
+"consult_type_code","consult_type_desc","consult_type_hie"
+"ADMIN","New Admission
+","I"
+"CONSU","New Consultation/Case","O"
+"FOLLO","Follow-up visit","O"
+"TELE","Teleconsultation","O"

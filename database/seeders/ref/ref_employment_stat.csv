@@ -1,0 +1,6 @@
+educ_status_id,educ_status_desc
+01,EMPLOYED
+02,NONE/UNEMPLOYED
+03,RETIRED
+04,STUDENT
+05,UNKNOWN

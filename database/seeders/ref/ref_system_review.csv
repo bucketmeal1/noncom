@@ -1,0 +1,152 @@
+"system_review_code","system_review_desc","system_review_code_field","philhealth_code"
+"1","Rash or itching","skin","9"
+"10","Visual disturbance/blurring of vision","heent",
+"100","Adynamic Precordium","cardio",
+"101","Heaves/Thrills","cardio","3"
+"102","Essentially normal","skin","1"
+"103","Weak pulses","skin","10"
+"104","Clubbing","skin","2"
+"105","Cold clammy","skin","3"
+"106","Cyanosis/mottled skin","skin","4"
+"107","Edema/swelling","skin","5"
+"108","Decreased mobility","skin","6"
+"109","Pale nailbeds","skin","7"
+"11","Yellowish conjuctiva","heent",
+"110","Poor skin turgor","skin","8"
+"111","Essentially Normal","heent","11"
+"112","Abnormal pupillary reaction","heent","12"
+"113","Cervical lympadenopathy","heent","13"
+"114","Dry mucous membrane","heent","14"
+"115","Icteric sclerae","heent","15"
+"116","Pale conjunctivae","heent","16"
+"117","Sunken eyeballs","heent","17"
+"118","Sunken fontanelle","heent","18"
+"119","Lumps over breast(s)","chest","10"
+"12","Enlarged thyroid","heent",
+"120","Wheezes","chest","5"
+"121","Essentially normal","chest","6"
+"122","Asymmetrical chest expansion","chest","7"
+"123","Decreased breath sounds","chest","8"
+"124","Enlarge Axillary Lymph Nodes","chest","9"
+"125","Essentially normal","cardio","5"
+"126","Displaced apex beat","cardio","6"
+"127","Irregular rhythm","cardio","7"
+"128","Muffled heart sounds","cardio","8"
+"129","Pericardial bulge","cardio","9"
+"13","Heart murmur","cardio","4"
+"130","Hyperactive bowel sounds","abdomen","10"
+"131","Palpable mass(es)","abdomen","11"
+"132","Tympanitic/dull abdomen","abdomen","12"
+"133","Uterine contraction","abdomen","13"
+"134","Essentially normal","abdomen","7"
+"135","Abdominal rigidity","abdomen","8"
+"136","Abnormal reflex(es)","neuro","10"
+"137","Poor muscle tone/strength","neuro","12"
+"138","Poor coordination","neuro","13"
+"139","Essentially normal","neuro","6"
+"14","Mitral valve prolapsed","cardio",
+"140","Abnormal gait","neuro","7"
+"141","Abnormal position sense","neuro","8"
+"142","Abnormal sensation","neuro","9"
+"143","Essentially normal","digital rectal","1"
+"144","Enlarge Prospate","digital rectal","2"
+"145","Mass","digital rectal","3"
+"146","Hemorrhoids","digital rectal","4"
+"147","Pus","digital rectal","5"
+"148","Essentially normal","genito","1"
+"149","Blood stained in exam finger","genito","2"
+"15","History of heart attacks","cardio",
+"150","Cervical dilatation","genito","3"
+"151","Presence of abnormal discharge","genito","4"
+"16","Rheumatic fever","cardio",
+"17","High or low blood pressure medication","cardio",
+"18","Chest pain or angina opectoris in last 30 days","cardio",
+"19","Palpitation","cardio",
+"2","Changes in skin color","skin",
+"20","Congestive heart failure","cardio",
+"21","Irregular pulse","cardio",
+"22","Abdominal pain","gastro",
+"23","Esophangeal varices","gastro",
+"24","Nausea or vomiting","gastro",
+"25","Frequent diarrhea","gastro",
+"26","Change in bowel movement","gastro",
+"27","Painful bowel movements or constipation","gastro",
+"28","Rectal bleeding or blood in stool","gastro",
+"29","Stomach ulcer","gastro",
+"3","Joint pain","skeletal",
+"30","Vomiting blood","gastro",
+"31","History of liver disease","gastro",
+"32","Jaundice","gastro",
+"33","Hepatitis","gastro",
+"34","Hemorrhoids","gastro",
+"35","Hormone problems","endo",
+"36","Heat or cold intolerance","endo",
+"37","Excessive thirst or urination","endo",
+"38","Diabetes","endo",
+"39","Thyroid disease","endo",
+"4","Muscle or joint weakness","skeletal",
+"40","Memory loss","neuro","11"
+"41","Nervousness","neuro",
+"42","Depression","neuro",
+"43","Insomnia","neuro",
+"44","Frequent/recurring headaches","neuro",
+"45","Light headed or dizzy","neuro",
+"46","Convulsions or seizures","neuro",
+"47","Numbness","neuro",
+"48","Tremors","neuro",
+"49","Paralysis","neuro",
+"5","Muscle pain or cramps","skeletal",
+"50","Head Injury","neuro",
+"51","Stroke","neuro",
+"52","Migraine headaches","neuro",
+"53","Brain tumor","neuro",
+"54","Frequent urination","genito",
+"55","Burning or painful urination","genito",
+"56","Blood in urine","genito",
+"57","Change in force of stream when urinating","genito",
+"58","Kidney stones","genito",
+"59","Severe chest pain","chest",
+"6","Back pain","skeletal",
+"60","Shortness of breath and easy fatigability","chest",
+"61","Breast/axillary masses","chest",
+"62","Nipple Discharge","chest",
+"63","Mass in the abdomen","abdomen",
+"64","History of gallbladder disease","abdomen",
+"65","History of liver disease","abdomen",
+"66","Chronic or frequent coughs","respiratory",
+"67","Emphysema or COPD","respiratory",
+"68","Asthma","respiratory",
+"69","Bronchitis","respiratory",
+"7","Cold extremities","skeletal",
+"70","Tuberculosis or positive TB skin test","respiratory",
+"71","Shortness of breath while walking or lying flat","respiratory",
+"72","Wheezing","respiratory",
+"73","Pneumonia","respiratory",
+"74","Spitting up blood","respiratory",
+"75","Sleep apnea","respiratory",
+"76","anicteric sclerae","heent",
+"77","pupils briskly reactive to light","heent",
+"78","aural discharge","heent",
+"79","intact tympanic membrane","heent",
+"8","Epiepsy/convulsion/seisure","heent",
+"80","alar flaring","heent",
+"81","nasal discharge","heent",
+"82","tonsillopharyngeal congestion","heent",
+"83","hypertrophic tonsils","heent",
+"84","palpable mass","heent",
+"85","exudates","heent",
+"86","pallor","skin",
+"87","jaundice","skin",
+"88","good skin turgor","skin",
+"89","symmetrical chest expansion","chest",
+"9","Severe headache/dizziness","heent",
+"90","retractions","chest","3"
+"91","crackles/rales","chest","4"
+"92","wheezes","chest","5"
+"93","clear breathsounds","chest",
+"94","flat","abdomen",
+"95","globular","abdomen",
+"96","flabby","abdomen",
+"97","muscle guarding","abdomen",
+"98","tenderness","abdomen","9"
+"99","palpable mass","abdomen","11"

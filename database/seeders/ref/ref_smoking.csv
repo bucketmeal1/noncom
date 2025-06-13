@@ -1,0 +1,6 @@
+"smoking_code","smoking_desc"
+"L","Less than/Equal to 1 pack consumed per day"
+"M","More than 1 pack consumed/day"
+"N","Never Smoked"
+"SLY","Stopped lessthan a year"
+"SMY","Stopped morethan a year"

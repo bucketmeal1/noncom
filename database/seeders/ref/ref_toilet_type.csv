@@ -1,0 +1,8 @@
+"toilet_type_code","toilet_type_desc"
+"A","Pour/flush type connected to septic tank"
+"B","Pour flush Toilet connected to septic tank AND to sewerage system"
+"C","Ventilated Pit (VIP) Latrine"
+"D","Water-sealed toilet w/o septic tank"
+"E","Over hung latrine"
+"F","Open Pit Latrine"
+"G","Without toilet"
